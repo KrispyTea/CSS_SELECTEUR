@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,.dazd,#dvze {
+    color: aqua;
+}
+
+ul>li {
+    color: green;
+}
+
+ul li {
+    color: red;
+}
+
+p + h4 {
+    color: blueviolet;
+}
+
+p ~ span {
+    color: cornflowerblue;
+}
